@@ -1,0 +1,6 @@
+{
+    "botToken": "BOTUN TOKENİ",
+    "botOwner": "BOTUN SAHİBİNİN İDSİ",
+    "botVoiceChannelID": "BOTUN BAĞLANACAĞI SES KANALI",
+    "logChannelID": "ÖNERİ ŞİKAYET LOGU"
+}

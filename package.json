@@ -1,0 +1,29 @@
+{
+  "name": "jc-oneri-sikayet",
+  "version": "1.0.0",
+  "description": "Öneri ve Şikayet Botu Altyapısı",
+  "main": "jcn.js",
+  "scripts": {
+    "test": "node jcn"
+  },
+  "author": "JC",
+  "license": "ISC",
+  "dependencies": {
+    
+  },
+  "peerDependenciesMeta": {
+    "@discordjs/opus": {
+      "optional": true
+    },
+    "ffmpeg-static": {
+      "optional": true
+    },
+    "node-opus": {
+      "optional": true
+    },
+    "opusscript": {
+      "optional": true
+    }
+  },
+  "keywords": []
+}
